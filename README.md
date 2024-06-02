@@ -51,3 +51,8 @@ PomTracker is a powerful command-line interface (CLI) tool built with Go that co
 - [ ] Team collaboration features for shared tasks and meetings
 - [ ] Gamification elements to motivate and engage users
 - [ ] Voice-based interaction for hands-free tracking
+
+# Dev Log
+## Sun 2 Jun 2024
+I went through the [cobra](https://github.com/spf13/cobra) and the [timer](https://github.com/caarlos0/timer/tree/main) packages they are super neat but a lot of dependencies is being used in the timer cli. I want to make something from scratch. If I do the styling as well it would take too much time and I like the bubble tea and lipgloss styling so I wont touch that. My expectations are different compared to the timer package. I want to create a pomodoro package only so 25 mins is the fixed time so I will develop my own logic.  Its god to still take some inspiration though
+
